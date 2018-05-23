@@ -1,0 +1,8 @@
+/target/
+/bin/
+/.idea/
+/resultParser.iml
+/.DS_Store
+/.classpath
+/.project
+/src/main/resources/
